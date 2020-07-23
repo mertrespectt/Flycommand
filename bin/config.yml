@@ -1,0 +1,11 @@
+# Flight Plugin - MertRespectt
+
+Messages:
+  Prefix: '&8[&eUcusMod&8] &r'
+  ConsoleMessage: '&cBu komutu konsoldan kullanamazsin'
+  NotPermission: '&cYetkin Yok'
+  InvalidArguments: '&cYanlis Belirtim:''/fly (on/off)''&8.'
+  Fly-ON: '&fFLY: &aAktif'
+  Fly-Already-ON: '&cUcus Modun Zaten Aktif'
+  Fly-OFF: '&fFLY &cKapali'
+  Fly-Already-OFF: '&cUcus modun zaten kapali.'

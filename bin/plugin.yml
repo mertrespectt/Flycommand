@@ -1,0 +1,7 @@
+name: FlyCommand
+main: me.mertrespectt.Main
+author: MertRespectt
+version: 1.2
+commands:
+  fly:
+    aliases: [flight]
